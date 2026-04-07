@@ -26,3 +26,5 @@ Berikut adalah hasil tampilan program:
 - Pastikan dependensi Maven sudah terinstal dengan benar.
 - Saat saya mengejakan project ini karna saya memakai xampp sebagai database mysqlnya pastikan path C:\xampp\mysql\bin masuk ke Environment Variables agar tidak ada eror
 
+*Dibuat oleh: Muhammad Farhan Fauzi Akbar (I.2510513) - Mahasiswa ilmu komputer Universitas Djuanda.*
+
